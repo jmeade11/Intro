@@ -1,7 +1,4 @@
-### CLASS 2 HOMEWORK
-
 ## YOUR PERSONAL WEBSITE
-#### Due: Monday, October 15
 
 This week, you'll be building a personal website to share with your classmates like the one shown below.  You should have already prepared for this assignment by:
 
@@ -12,7 +9,7 @@ This week, you'll be building a personal website to share with your classmates l
 
 So far, your project should resemble the following:
 
-![Your file structure so far](../../embedded-images/cls1-hmwk-files.png)
+![Your file structure so far](https://raw.githubusercontent.com/jmeade11/FEWD/master/embedded-images/cls1-hmwk-files.png)
 
 ## DEVELOPING YOUR CONTENT
 
@@ -361,4 +358,4 @@ footer {
 
 ## DESIGN FILE
 
-![Screenshot of Week 1 Homework](../../embedded-images/wk1-hmwk-design.png)
+![Screenshot of LAB](https://raw.githubusercontent.com/jmeade11/FEWD/master/embedded-images/wk1-hmwk-design.png)
